@@ -7,4 +7,4 @@ mathematical constants:- pi and e(Euler`s Number) which you can use for further 
 # Source Code
 When you unzip the file, the source java files are present in the calc folder of src folder.
 
-Hope you found it useful:)
+Hope you will find it useful:)
